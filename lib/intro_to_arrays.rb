@@ -2,7 +2,7 @@ def instantiate_new_array
   []
 end
 
-def my_two_array
+def array_with_two_elements
   ["yeet","yeeted"]
 end
 
